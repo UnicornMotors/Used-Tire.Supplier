@@ -5,8 +5,9 @@ TIRES AND WHEELS
 Average Pull-A-Part Price*
 $19.99
 
-# WHEEL, STEEL W/ TIRE NOT FIT FOR ROAD USE
 https://www.pullapart.com/used-auto-parts/parts-pricing/
+
+# WHEEL, STEEL W/ TIRE NOT FIT FOR ROAD USE
 $13.50
 $1.65
 $3.00
