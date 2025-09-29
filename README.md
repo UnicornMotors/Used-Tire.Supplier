@@ -10,3 +10,8 @@ https://www.pullapart.com/used-auto-parts/parts-pricing/
 $13.50
 $1.65
 $3.00
+
+# TIRE (ONLY)
+$23.99
+$2.93
+$0.00
